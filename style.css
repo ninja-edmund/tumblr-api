@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+}
+
+#gallery {
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center
+}
+
+#button {
+    text-align: center;
+}
+
